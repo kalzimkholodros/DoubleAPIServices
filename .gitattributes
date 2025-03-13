@@ -1,0 +1,2 @@
+*.cs linguist-language=ASP.NET
+*.csproj linguist-language=ASP.NET
